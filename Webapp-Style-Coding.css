@@ -1,0 +1,42 @@
+body
+{
+    background-image: url("BG.gif");
+    background-size: contain;
+}
+
+footer
+{
+    position: fixed;
+    bottom: 0%;
+    margin-left: 280px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background-color: #BF5EF6;
+    color: #1FC9F4;
+    width: 50%;
+    font-size: 110%;
+    font: italic;
+    border-radius: 15px;
+}
+
+h3
+{
+    color: rgb(164, 222, 255);
+}
+
+h6
+{
+    color: #C9302C;
+    font-size: 15px;
+}
+
+b,span
+{
+    font-size: 16px;
+}
+
+canvas
+{
+    border-style: groove;
+    border: deepskyblue 20px;
+}
